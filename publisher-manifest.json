@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f9e2e23d677e34db9707887e",
+  "owner": "ybepvqmnk",
+  "repo": "page-fbcd4533c82f516b4a10ac1e",
+  "title": "YaHaHa",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fbcd4533c82f516b4a10ac1e",
+      "a": "YaHaHa",
+      "b": "2027官方最新地址导航",
+      "entity": "YaHaHa",
+      "brand": "YaHaHa",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8824dce04ec4450c0261097b09a810fe89e5d5a84cede3f81a5dbc187d0aaceb",
+      "content": {
+        "primary_entity": "YaHaHa",
+        "keyword1": "YaHaHa",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后打开客户端导入订阅，即可开始使用 YaHaHa 加速服务。",
+          "AI_CLOSING_TITLE": "开始你的加速体验",
+          "AI_DESCRIPTION": "，面向需要稳定访问海外网络资源的用户，提供基础版、旗舰版、团队版三档套餐。基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB 流量，支持 5 台设备，含 IPLC 专线游戏加速优化；团队版每月 1000GB 流量，支持 20 台设备。年付可节省费用，适合长期使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个角度，帮你快速定位合适套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，适合轻度浏览与日常查资料。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备，含 IPLC 专线与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备，支持企业定制路由。",
+          "AI_FEATURE_TITLE_1": "流量匹配",
+          "AI_FEATURE_TITLE_2": "设备并发",
+          "AI_FEATURE_TITLE_3": "线路类型",
+          "AI_GUIDE_INTRO": "三步完成套餐选择与订阅配置，快速接入 YaHaHa 加速服务。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "YaHaHa 提供多档海外加速套餐，覆盖基础流量到团队高带宽需求，支持多设备同时在线与专线优化，可按月或按年付费。",
+          "AI_HERO_SUBTITLE": "多档套餐，灵活选择",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备在线",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按流量与设备数按需选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数量，在基础版、旗舰版、团队版中选择合适档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备类型与线路说明，确认路由器、电脑或移动端是否符合接入条件。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅链接，按客户端文档完成配置后连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "YaHaHa 海外加速",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版为 5 台，团队版为 20 台。设备数量按同时连接计算，手机、电脑与路由器均计入。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。按年付分别约为 ¥150、¥350、¥850，折合月均更省。",
+          "AI_FAQ_ANSWER_3": "旗舰版包含 IPLC 专线游戏加速优化，节点延迟表现更适合联机游戏；基础版使用普通线路节点池，团队版提供 VIP 专属高带宽节点。",
+          "AI_FAQ_ANSWER_4": "手机端常用 Shadowrocket 或 Clash，桌面端可用 Clash Verge 或 V2rayN。导入订阅后按客户端文档设置规则并选择节点即可。",
+          "AI_FAQ_ANSWER_5": "流量与设备需求较低可选基础版；需要游戏加速与更多设备选旗舰版；团队多人或需要定制路由则选团队版。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "YaHaHa 各套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "三档套餐的月流量与年付价格分别是多少？",
+          "AI_FAQ_QUESTION_3": "旗舰版和基础版在节点线路上的区别是什么？",
+          "AI_FAQ_QUESTION_4": "不同设备分别适合用哪些客户端？",
+          "AI_FAQ_QUESTION_5": "如何判断自己该选哪一档套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cfhxz.cn",
+    "host": "cfhxz.cn"
+  },
+  "file_hashes": {
+    "index.html": "6b419735b7976d2852c00bc2b85884baa57bc2bfaf152725279c3437975a69c2",
+    "sitemap.xml": "5b46fdb18ef5ee84e82e5e685a4268e1467bf0fcb69568fd118f7d5dfb9e0133",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a233049f5fa43544c60406baab6f159bae72c638a101d973cb3114e271c6055a",
+    "robots.txt": "f822d109ed6c42f095f38f10f7f7606c43f81b16b9efec81e6f69242f030336a",
+    "4b60057459cc25802f3c14a3deba8c77.txt": "2880efd35e2e1e5d41eba2186c9e5e8d5fa5b07149a8f9581678e59baa976c37"
+  },
+  "revision": "b9c5cc2414b8b6610fb50ccc305c7d12d3a0c2efdbaafd06522fa9bef36ae210"
+}
